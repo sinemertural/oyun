@@ -1,4 +1,4 @@
 hareket(x,y){
-a=x
-b=y
+a=x;
+b=y;
 }
